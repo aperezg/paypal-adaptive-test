@@ -1,4 +1,4 @@
-paypal-adaptive-test
+Paypal Adaptive Test
 ====================
 
-test for paypal adaptive
+En este proyecto se quería probar la api clasica de paypal para la parte de adaptive test
